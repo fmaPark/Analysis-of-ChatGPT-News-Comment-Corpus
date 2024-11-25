@@ -18,3 +18,7 @@
 ## 유의사항
 - youtube_crawling.ipynb는 jupyter notebook, 이외 코드는 colab 환경에서 실행
 - 환경에 따라 별도의 파일 경로 설정 필요
+
+---
+- [보고서 바로가기](https://drive.google.com/file/d/1nUHCMbIF0Yz5j-cLx6bU321U5oxvyQEI/view?usp=sharing)
+- [발표자료 바로가기](https://drive.google.com/file/d/18EFN8sQtqSwJHwcfwthXUzWJ0cQe3UEF/view?usp=sharing)
